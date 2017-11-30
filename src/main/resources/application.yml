@@ -9,3 +9,5 @@ spring:
         username: demo_user
         password: demo_pass
         driver-class-name: com.mysql.jdbc.Driver
+server:
+    port: 8585
